@@ -33,3 +33,10 @@
 ```
 # npx esrun generate_keypair.ts
 ```
+
+### For the latest updates, fetch the upstream
+
+```
+# git fetch upstream
+# git rebase upstream/main
+```
