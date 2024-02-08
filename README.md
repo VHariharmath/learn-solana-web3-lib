@@ -1,4 +1,4 @@
-# This tutorial helps to understand how to interact with Solana web3 library
+# Solana Study material to interact with Solana web3 library
 
 ## Steps to prepare the development environment
 
