@@ -6,9 +6,8 @@
 
 1. Prefer linux/mac system for development. If you are on windows install WSL - https://learn.microsoft.com/en-us/windows/wsl/install
 
-```
-WSL: Windows Subystem for Linux. This is a light weight ubuntu/other flavours on windows, gives Linux enviroment without installing linux VM. After installation, open WSL terminal and continue the next steps
-```
+> WSL: Windows Subystem for Linux. This is a light weight ubuntu/other flavours on windows, gives
+> Linux enviroment without installing linux VM. After installation, open WSL terminal and continue > the next steps
 
 2. Install NVM: Node Version Manager from here - https://github.com/nvm-sh/nvm
 
