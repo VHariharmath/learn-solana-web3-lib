@@ -1,4 +1,4 @@
-# Solana Study material to interact with Solana web3 library
+# Study material to interact with Solana web3 n/w
 
 ## Steps to prepare the learning environment
 
