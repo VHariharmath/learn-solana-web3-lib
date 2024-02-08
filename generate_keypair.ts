@@ -7,6 +7,6 @@ import { Keypair } from "@solana/web3.js";
 // in asymmetric cryptography, we will have 2 different keys for encryption and decrypt
 const keypair = Keypair.generate();
 
-console.log(`${keypair.publicKey.toBase58()}`);
-console.log(`${keypair.secretKey}`);
+console.log(`Wallet addres: ${keypair.publicKey.toBase58()}`);
+console.log(`Secret: ${keypair.secretKey}`);
 console.log("Finished loading KEYS");

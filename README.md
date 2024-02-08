@@ -1,6 +1,6 @@
 # Solana Study material to interact with Solana web3 library
 
-## Steps to prepare the development environment
+## Steps to prepare the learning environment
 
 ### Installing nodejs
 
@@ -16,12 +16,18 @@
 ### Fork this repository and set the upstream
 
 ```
-git remote add upstream git@github.com:VHariharmath/learn-solana-web3-lib.git
+# git remote add upstream git@github.com:VHariharmath/learn-solana-web3-lib.git
 ```
 
 ### Install dependencies (package.json has all dependencies listed)
 
 ```
-cd learn-solana-web3-lib.git
-npm install
+# cd learn-solana-web3-lib.git
+# npm install
+```
+
+### Run the sample program
+
+```
+# npx esrun generate_keypair.ts
 ```
