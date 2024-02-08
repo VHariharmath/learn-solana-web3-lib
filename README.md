@@ -2,6 +2,8 @@
 
 ## Steps to prepare the learning environment
 
+### Install vs code - https://code.visualstudio.com/download
+
 ### Installing nodejs
 
 1. Prefer linux/mac system for development. If you are on windows install WSL - https://learn.microsoft.com/en-us/windows/wsl/install
