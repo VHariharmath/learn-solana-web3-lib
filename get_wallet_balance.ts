@@ -3,6 +3,7 @@ import {
   clusterApiUrl,
   PublicKey,
   LAMPORTS_PER_SOL,
+  GetAccountInfoConfig,
 } from "@solana/web3.js";
 
 // Solana has 3 networks
@@ -17,6 +18,8 @@ const address = new PublicKey("GK5GHL9ZyEka15qiLhqZyWaixMBPEZ3rCTqQaSD4huVd");
 var balance;
 try {
   balance = await connection.getBalance(address);
+  const accInfo = await connection.getAccountInfo(address);
+  console.log(`Account Info = ${JSON.stringify(accInfo)}`);
 } catch (err) {
   console.log(`err returned ${err}`);
 }
