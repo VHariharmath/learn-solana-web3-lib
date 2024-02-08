@@ -1,4 +1,7 @@
-import web3, { sendAndConfirmRawTransaction } from "@solana/web3.js";
+import web3, {
+  sendAndConfirmRawTransaction,
+  SystemProgram,
+} from "@solana/web3.js";
 import { getKeypairFromEnvironment } from "@solana-developers/node-helpers";
 import dotenv from "dotenv";
 
