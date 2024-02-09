@@ -67,5 +67,5 @@ async function pingProgram(
 
   const balance = await connection.getBalance(programDataId);
   const balanceInSol = balance / web3.LAMPORTS_PER_SOL;
-  console.log(`Succesfully wrong data to the n/w`);
+  console.log(`Succesfully wrote record to the ledger`);
 }
