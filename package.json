@@ -14,6 +14,7 @@
     "base58": "^2.0.1",
     "bigint-buffer": "^1.1.5",
     "esrun": "^3.2.26",
+    "mocha": "^10.3.0",
     "typescript": "^5.3.3"
   },
   "description": ""

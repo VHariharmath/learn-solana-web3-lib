@@ -1,3 +1,8 @@
+### What is Solana
+
+1. A public blochchain with fast confirmation time and low fees
+2. Basically Big data base with custom programs
+
 ### Everthing in Solana is account
 
 1. The program logic we deploy to the block chain is also treated like account
