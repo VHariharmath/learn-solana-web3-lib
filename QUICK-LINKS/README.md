@@ -15,3 +15,7 @@
 ### Cook book: https://solanacookbook.com/#contributing
 
 ### mobile app guide: https://docs.solanamobile.com/getting-started/intro
+
+### Rust programming course: https://www.classcentral.com/classroom/freecodecamp-learn-rust-programming-complete-course-198989
+
+https://www.youtube.com/watch?v=BpPEoZW5IiY&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=BpPEoZW5IiY&t=5&ab_channel=freeCodeCamp.org
