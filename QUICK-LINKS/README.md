@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4849s&ab_channel=freeCodeCamp.org
 
+# Ethereum smart contract p2p energy transaction example
+
+https://github.com/VHariharmath/Smart-Contracts/blob/main/p2p/p2p_electricity.sol
+
 # Solana knowledge base
 
 ### Youtube channel for basics: https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&ab_channel=Solana
