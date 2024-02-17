@@ -1,6 +1,8 @@
-## Block chain basics: https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4849s&ab_channel=freeCodeCamp.org
+## Block chain basics:
 
-## Solana knowledge base
+https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4849s&ab_channel=freeCodeCamp.org
+
+# Solana knowledge base
 
 ### Youtube channel for basics: https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&ab_channel=Solana
 
@@ -18,7 +20,7 @@
 
 ### Mobile app guide: https://docs.solanamobile.com/getting-started/intro
 
-## Rust knowledge base
+# Rust knowledge base
 
 ### Rust programming course: https://www.classcentral.com/classroom/freecodecamp-learn-rust-programming-complete-course-198989
 
@@ -28,7 +30,7 @@ https://www.youtube.com/watch?v=BpPEoZW5IiY&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&st
 
 ### Rust playground: https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
 
-## Solana programming
+# Solana programming
 
 ### Prg by example: https://beta.solpg.io/tutorials
 
