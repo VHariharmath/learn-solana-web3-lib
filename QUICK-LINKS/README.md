@@ -1,4 +1,4 @@
-## Block chain basics:
+# Block chain basics:
 
 https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=4849s&ab_channel=freeCodeCamp.org
 
