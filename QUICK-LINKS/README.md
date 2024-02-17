@@ -19,3 +19,7 @@
 ### Rust programming course: https://www.classcentral.com/classroom/freecodecamp-learn-rust-programming-complete-course-198989
 
 https://www.youtube.com/watch?v=BpPEoZW5IiY&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=BpPEoZW5IiY&t=5&ab_channel=freeCodeCamp.org
+
+### Rust by example: https://practice.course.rs/why-exercise.html
+
+### Rust playground: https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
